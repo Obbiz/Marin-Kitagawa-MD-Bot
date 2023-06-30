@@ -3,21 +3,21 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['918373017400']
-global.OwnerNumber = ['918373017400']
-global.ownertag = ['918373017400']
+global.Owner = ['59822229757']
+global.OwnerNumber = ['59822229757']
+global.ownertag = ['59822229757']
 global.BotName = "𝑀𝒶𝓇𝒾𝓃-ᴋɪᴛᴀɢᴀᴡᴀ"
 global.packname = "𝑀𝒶𝓇𝒾𝓃-ʙᴏᴛ"
 global.author = "By: ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
-global.OwnerName = "ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
-global.BotSourceCode = "https://github.com/Chey-san/Marin-Kitagawa-MD-Bot"
+global.OwnerName = "Obbbbizz?"
+global.BotSourceCode = "https://github.com/Obbiz-MD-Bot"
 global.SupportGroupLink = "https://chat.whatsapp.com/G0dZXqJAL9b1boqnra7eb4"
 global.sessionName = "session"
-global.prefa = ['-']
+global.prefa = ['.']
 global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
